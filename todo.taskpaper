@@ -1,0 +1,6 @@
+	- Add the ability to use regular expressions
+	I was thinking that -G and --regexp would be the arguments.
+	- Add the ability to search for a string with spaces in it
+	- Add the ability to display a list instead of opening up each matching file
+	- make an install script that links from /usr/local/bin to nvterm.py
+	Should ask the user what they would like it to be called
